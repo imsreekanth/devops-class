@@ -1,0 +1,1 @@
+ Developers create separate branches for independently working on features so that changes from other developers don’t interfere with an individual’s line of work. Developers can easily pull changes from different branches and also merge their code with the main branch. This allows easier collaboration for developers working on one codebase.
